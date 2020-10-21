@@ -1,3 +1,4 @@
+# Creation of rest api
 import pandas as pd
 import numpy as np
 from flask import Flask,redirect,url_for,request,jsonify
