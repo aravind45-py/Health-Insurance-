@@ -4,4 +4,4 @@ by Aravind R
 
 Note : Only for reference
 if you have any kind  of additional knowledge please ping me asap!!!
-Also included html raw version since big file download is prefered
+Also included PDF version since ipynb file size is large
